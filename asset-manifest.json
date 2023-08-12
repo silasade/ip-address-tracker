@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/ip-address-tracker/static/css/main.46668631.css",
-    "main.js": "/ip-address-tracker/static/js/main.67fe05ea.js",
+    "main.js": "/ip-address-tracker/static/js/main.d370c76e.js",
     "static/css/717.b7db5a4d.chunk.css": "/ip-address-tracker/static/css/717.b7db5a4d.chunk.css",
-    "static/js/717.622839c2.chunk.js": "/ip-address-tracker/static/js/717.622839c2.chunk.js",
+    "static/js/717.6e7b4283.chunk.js": "/ip-address-tracker/static/js/717.6e7b4283.chunk.js",
     "static/js/787.16fb0e5f.chunk.js": "/ip-address-tracker/static/js/787.16fb0e5f.chunk.js",
     "static/js/164.147311f4.chunk.js": "/ip-address-tracker/static/js/164.147311f4.chunk.js",
     "static/media/pattern-bg-desktop.png": "/ip-address-tracker/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
@@ -12,14 +12,14 @@
     "static/media/icon-location.svg": "/ip-address-tracker/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
     "static/media/icon-arrow.svg": "/ip-address-tracker/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
     "main.46668631.css.map": "/ip-address-tracker/static/css/main.46668631.css.map",
-    "main.67fe05ea.js.map": "/ip-address-tracker/static/js/main.67fe05ea.js.map",
+    "main.d370c76e.js.map": "/ip-address-tracker/static/js/main.d370c76e.js.map",
     "717.b7db5a4d.chunk.css.map": "/ip-address-tracker/static/css/717.b7db5a4d.chunk.css.map",
-    "717.622839c2.chunk.js.map": "/ip-address-tracker/static/js/717.622839c2.chunk.js.map",
+    "717.6e7b4283.chunk.js.map": "/ip-address-tracker/static/js/717.6e7b4283.chunk.js.map",
     "787.16fb0e5f.chunk.js.map": "/ip-address-tracker/static/js/787.16fb0e5f.chunk.js.map",
     "164.147311f4.chunk.js.map": "/ip-address-tracker/static/js/164.147311f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46668631.css",
-    "static/js/main.67fe05ea.js"
+    "static/js/main.d370c76e.js"
   ]
 }
