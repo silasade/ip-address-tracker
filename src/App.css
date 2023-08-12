@@ -1,38 +1,97 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap');
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html{
+  scroll-behavior: smooth;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.address{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-direction: row;
+  gap:20px;
+  background-color: white;
+  width: 70%;
+  padding: 2%;
+  margin: 120px auto;
+  border-radius: 0.5cm;
+}
+p{
+  font-size: 14px;
+}
+body{
+  margin: 0; 
+  font-family: 'Rubil';
+}
+button{
+  background-color: hsl(0, 0%, 17%);
+  border: 0;
+  margin-left: -4.5%;
+  padding:2.0% ;
+  border-top-right-radius: 5cm;
+  border-bottom-right-radius: 5cm;
+  cursor: pointer;
+}
+button:hover{
+  background-color: hsl(0, 0%, 59%);
+}
+.head{
   color: white;
 }
+h3{
+  font-size: 18px;
 
-.App-link {
-  color: #61dafb;
 }
+input{
+  padding: 2%;
+  border-radius: 5cm;
+  border: 0;
+  width: 40%;
+  outline: 0;
+}
+.head{
+  text-align: center;
+}
+.map{
+  z-index: -1;
+}
+header{
+  margin: 0 auto;
+ padding-top: 5%;
+  height: 315px;
+  background-image: url("./pattern-bg-desktop.png");
+}
+.secondary-address{
+  display: flex;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+}
+@media(max-width:500px){
+  header{
+    background-image: url("./pattern-bg-mobile.png");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
-  to {
-    transform: rotate(360deg);
+  .address{
+    flex-direction: column;
+    gap: 1%;
+    
+    
+    text-align: center;
+    width: 70%;
+    padding: 0;
+  }
+  h3{
+    font-size: 14px;
+    font-weight: 700;
+    
+  }
+}
+@media(max-width:450px){
+  
+  input{
+    width: 70%;
+  }
+}
+@media(max-width:300px){
+  
+  h3{
+    font-size: 10px;
   }
 }
