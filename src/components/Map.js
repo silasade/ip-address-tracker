@@ -36,7 +36,7 @@ function Map(props) {
     };
   }, [props.lat, props.lng]);
 
-  return <div ref={mapRef} className='map' style={{ width: '100%', height: '300px' }} />;
+  return <div ref={mapRef} className='map' style={{ width: '100%', height: '50vh' }} />;
 }
 
 export default Map;
