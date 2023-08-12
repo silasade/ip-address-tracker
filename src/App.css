@@ -70,8 +70,8 @@ header{
   }
   .address{
     flex-direction: column;
-    gap: 1%;
-    
+    gap: 5px;
+    line-height: 2px;
     
     text-align: center;
     width: 70%;
