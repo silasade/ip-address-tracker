@@ -1,4 +1,4 @@
-be d# Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -21,7 +21,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## About 
 This web app was created using react, leaflet maps.\
-it tracks the ip address and uses an api,it checks if the ip inputed is in the api and displays the location on a map and the region and coutry where the ip address is located.\
+it tracks the ip address and uses an api,it checks if the ip that was inputed is in the api and displays the location on a map and the region and coutry where the ip address is located.\
 
 ### Hosted
 The live website can be seen here http://localhost:3000/
