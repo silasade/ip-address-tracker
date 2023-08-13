@@ -24,7 +24,7 @@ This web app was created using react, leaflet maps.\
 it tracks the ip address and uses an api,it checks if the ip that was inputed is in the api and displays the location on a map and the region and coutry where the ip address is located.\
 
 ### Hosted
-The live website can be seen here http://localhost:3000/
+The live website can be seen here https://silasade.github.io/ip-address-tracker/
 
 #### How to use
 Enter the ip address in the search box and click the arrow button, then the map will show the location of the ip address and other details of the ip address like the isp and location will be displayed.\
